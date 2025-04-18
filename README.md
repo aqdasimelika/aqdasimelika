@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-## 🐍 شاهکارهای کدنویسی
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqdasimelika/aqdasimelika/main/output/github-contribution-grid-snake-dark.svg" />
