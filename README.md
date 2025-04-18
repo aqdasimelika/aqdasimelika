@@ -1,5 +1,4 @@
 ## Hi there 👋
-# start2
 ![Profile Views](https://komarev.com/ghpvc/?username=aqdasimelika&color=brightgreen)
 
 ![Awesome Banner](https://github.com/aqdasimelika/start2/blob/main/industrial-designer-digital-art.jpg)
@@ -15,3 +14,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
+## 🐍 شاهکارهای کدنویسی
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqdasimelika/aqdasimelika/main/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqdasimelika/aqdasimelika/main/output/github-contribution-grid-snake.svg" />
+    <img alt="مار گیت‌هاب" src="https://raw.githubusercontent.com/aqdasimelika/aqdasimelika/main/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
