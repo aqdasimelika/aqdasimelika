@@ -1,6 +1,8 @@
 ## Hi there 👋
-![Profile Views](https://komarev.com/ghpvc/?username=aqdasimelika&color=brightgreen)
-
+<div align="center"> 
+  <p>تعداد بازدید</p>
+  <img src="https://profile-counter.glitch.me/aqdasimelika/count.svg" alt="شمارش بازدیدکنندگان" />
+</div>
 ![Awesome Banner](https://github.com/aqdasimelika/start2/blob/main/industrial-designer-digital-art.jpg)
 <img src="https://readme-typing-svg.herokuapp.com?lines=Hi!+I+am+programmer!;Love+learning+and+building+new+projects&center=true&width=480&height=50">
 
