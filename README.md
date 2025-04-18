@@ -1,16 +1,17 @@
 ## Hi there 👋
+# start2
+![Profile Views](https://komarev.com/ghpvc/?username=aqdasimelika&color=brightgreen)
 
-<!--
-**aqdasimelika/aqdasimelika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Awesome Banner](https://github.com/aqdasimelika/start2/blob/main/industrial-designer-digital-art.jpg)
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hi!+I+am+programmer!;Love+learning+and+building+new+projects&center=true&width=480&height=50">
 
-Here are some ideas to get you started:
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/melika-aqdasi-b82353344/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqdasimelika&show_icons=true&theme=radical)
+
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
